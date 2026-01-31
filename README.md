@@ -1,22 +1,24 @@
-# Spoold Developer Tools
+# 🚀 Spoold Developer Tools
 
 [![Try Spoold](https://img.shields.io/badge/Try_it-Spoold-0066CC?style=flat-square)](https://spoold.com/tools)
 [![Free](https://img.shields.io/badge/Free-to_use-brightgreen?style=flat-square)](https://spoold.com/tools)
 [![No sign-up](https://img.shields.io/badge/No_sign--up-required-informational?style=flat-square)](https://spoold.com/tools)
 [![Client-side](https://img.shields.io/badge/Client--side-browser-blue?style=flat-square)](https://spoold.com/tools)
+[![Built for Developers](https://img.shields.io/badge/Built_for-Developers-orange?style=flat-square)](#)
+[![Open Source Friendly](https://img.shields.io/badge/Open--Source-Friendly-black?style=flat-square)](#)
 
 
 Free online developer toolbox with intelligent content detection. Paste JSON, HTML, JWT, curl, or any text and get the right tool instantly. No sign-up required.
 
 **[Try Spoold →](https://spoold.com/tools)**
 
-## Why use Spoold
+## ⭐ Why use Spoold
 
-- **No sign-up** – Use every tool without an account or paywall.
-- **Runs in your browser** – Your data stays on your device; we don’t store or log your input.
-- **Paste and go** – Paste JSON, HTML, JWT, curl, Base64, or any text on the homepage and Spoold suggests the right tool.
-- **One place for many tools** – Format JSON, decode JWTs, convert timestamps, generate UUIDs, test regex, convert curl to code, and more.
-- **Fast and private** – Instant results; no server round-trip for most tools.
+- ⭐ **No sign-up** – Use every tool without an account or paywall.
+- ⭐ **Runs in your browser** – Your data stays on your device; we don’t store or log your input.
+- ⭐ **Paste and go** – Paste JSON, HTML, JWT, curl, Base64, or any text on the homepage and Spoold suggests the right tool.
+- ⭐ **One place for many tools** – Format JSON, decode JWTs, convert timestamps, generate UUIDs, test regex, convert curl to code, and more.
+- ⭐ **Fast and private** – Instant results; no server round-trip for most tools.
 
 ## Tools
 
